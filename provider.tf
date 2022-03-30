@@ -1,7 +1,7 @@
 
 provider "google" {
-	project = "revanth-gcp-2020"
+	project = "test-cloudbuild-8712"
 	region = "us-central1"
 	zone = "us-central1-a"
-	credentials = "./SA_key.json"
+	credentials = "./empty.json"
 }
